@@ -13,10 +13,10 @@ import tweepy
 
 
 #The info about the twitter app (https://apps.twitter.com)
-consumer_key = '7Z8OY9QORzrVp7ydaoIr7RusZ'
-consumer_secret = 'hdd98zFhYFTT9eHXgvZdMqe8L84SRkGX0acM2hFYY9HDIJ3Rfh'
-access_token = '4079832316-AnYzXlgHRHLhFatdf9VQW8EXlvIs2vr3OUHxFPH'
-access_token_secret = 'PQ5Tqz2s7K6LrVie5hI9NyEDedLpRWPwS2ViVcjMKNOOT'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 #Connection
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
